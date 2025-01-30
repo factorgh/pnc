@@ -60,7 +60,7 @@ function App() {
               So far I have saved...
             </h3>
             <p className="text-gray-700 text-sm md:text-base">
-              From 02/10/2017 - To 30/05/2024
+              From 02/10/2017 - To 30/01/2025
             </p>
           </div>
 
